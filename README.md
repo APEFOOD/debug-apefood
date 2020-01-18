@@ -2,4 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Debug APEFOOD
 
-A bug tracker for all my porfolio projects. More info coming soon..
+A bug tracker for all my porfolio projects. More info coming soon.. 
+
+#TODO 
+- Add components 
+- Finish the UI 
