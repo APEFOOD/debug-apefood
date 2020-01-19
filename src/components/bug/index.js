@@ -1,0 +1,1 @@
+// TODO: Define the 'bug' content type's component
